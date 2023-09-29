@@ -38,7 +38,7 @@ We have an exciting roadmap for 2023:
 
 We welcome developers, designers, and enthusiasts to join our community:
 
-- 📌 GitHub: Contribute to Code Inbox on link::https://github.com/wiseaidev/code-inbox[GitHub].
+- 📌 GitHub: Contribute to Code Inbox on link:https://github.com/wiseaidev/code-inbox[GitHub].
 - 🤝 Contribute: Explore our contribution guidelines and help us improve.
 - 📧 Contact Us: Have questions or suggestions? Reach out to us at support@code-inbox.com.
 - 🌐 Spread the Word: Share Code Inbox with your network and help us grow.
