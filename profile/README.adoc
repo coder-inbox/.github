@@ -1,6 +1,6 @@
 = Code Inbox: Revolutionizing Email Management
 
-image::./static/banner.png[Code Inbox Logo, 350]
+image::./profile/static/banner.png[Code Inbox Logo, 350]
 
 == 📜 About Us
 
